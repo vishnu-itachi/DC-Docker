@@ -1,7 +1,7 @@
 {
     "input_file": "input.txt",
-    "output_file": "output.txt",
-    "numworkers": 4,
+    "output_file": "result.txt",
+    "num_workers": 4,
     "environment": {"NODE_TYPE" : "WORKER"},
     "build": true,
     "shared_folder": "D:/Projects/DC-Docker/debug/shared"
